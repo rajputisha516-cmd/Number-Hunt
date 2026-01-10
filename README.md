@@ -71,4 +71,4 @@ Only standard Python libraries are used along with Streamlit.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/Number-Hunt.git
+git clone https://github.com/rajputisha516-cmd/Number-Hunt.git
