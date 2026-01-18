@@ -100,4 +100,4 @@ This project was initially built as a local Streamlit application.
 It has now been enhanced and deployed as a live web app that can be accessed from both desktop and mobile browsers.
 
 ## 🚀 Live Deployment
-🔗 Live App: <PASTE YOUR DEPLOYMENT LINK HERE>
+🔗 Live App: https://number-hunt-thb2a886ysmwskmmxpxf8u.streamlit.app/
