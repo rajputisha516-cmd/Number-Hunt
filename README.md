@@ -94,3 +94,10 @@ Streamlit will automatically open the app in your browser.
 If not, open the following URL manually:
 
 http://localhost:8501
+
+## 🔄 Project Update
+This project was initially built as a local Streamlit application.
+It has now been enhanced and deployed as a live web app that can be accessed from both desktop and mobile browsers.
+
+## 🚀 Live Deployment
+🔗 Live App: <PASTE YOUR DEPLOYMENT LINK HERE>
